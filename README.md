@@ -1,4 +1,4 @@
-## Software Engineer | Full Stack & AI Applications
+## Software Engineer | Agentic AI & Automation | Python | Full Stack
 
 I'm a **Computer Engineer** with production experience building software and a current focus on **LLM-based products and AI agents**.
 
